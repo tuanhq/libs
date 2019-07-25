@@ -1,0 +1,17 @@
+*.iml
+*.ipr
+*.iws
+.classpath
+.gradle
+.idea
+.project
+.settings
+.recommenders
+.metadata
+Servers
+.checkstyle
+bin
+build
+out
+target
+.DS_Store
